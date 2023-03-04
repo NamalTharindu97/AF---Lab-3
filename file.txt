@@ -1,3 +1,1 @@
-Namal
-tharindu
-bandara
+hello world namal 
